@@ -1,0 +1,112 @@
+{
+  "groups": [
+    {
+      "groupId": "couple",
+      "members": [
+        { "name": "Noah Dorfman", "aliases": ["noah"] },
+        { "name": "Lauren Mulvihill", "aliases": ["lauren"] }
+      ]
+    },
+    {
+      "groupId": "noahs_parents",
+      "members": [
+        { "name": "Karen Cosgrove", "aliases": ["mom", "mother", "karen", "chef"] },
+        { "name": "Josh Ruiz", "aliases": ["josh"] }
+      ]
+    },
+    {
+      "groupId": "noahs_brother",
+      "members": [
+        { "name": "Jacob Dorfman", "aliases": ["jacob", "fred"] },
+        { "name": "Gabriella Dorfman", "aliases": ["gabriella", "gab", "gabi", "gina"] }
+      ]
+    },
+    {
+      "groupId": "noahs_maternal_grandparents",
+      "members": [
+        { "name": "Colleen Armstrong", "aliases": ["grandmom", "colleen"] },
+        { "name": "Greg Armstrong", "aliases": ["grandpop", "greg"] }
+      ]
+    },
+    {
+      "groupId": "noahs_paternal_grandparents",
+      "members": [
+        { "name": "Bob Dorfman", "aliases": ["zayda", "bob"] },
+        { "name": "Shirley Dorfman", "aliases": ["meme", "shirley"] }
+      ]
+    },
+    {
+      "groupId": "waetzmans",
+      "members": [
+        { "name": "Nicole Waetzman", "aliases": ["aunt nicole", "aunt nik", "aunt nic", "nicole"] },
+        { "name": "Evan Waetzman", "aliases": ["evan", "uncle evan", "uncle ev"] },
+        { "name": "Max Waetzman", "aliases": ["max"] }
+      ]
+    },
+    {
+      "groupId": "striebs",
+      "members": [
+        { "name": "Heidi Strieb", "aliases": ["aunt heidi", "heidi"] },
+        { "name": "Ron Strieb", "aliases": ["ron", "uncle ron", "uncle ron strieb"] },
+        { "name": "Sam Strieb", "aliases": ["sam"] },
+        { "name": "Sydney Strieb", "aliases": ["sydney", "syd"] },
+        { "name": "Tyler Strieb", "aliases": ["tyler", "ty"] }
+      ]
+    },
+    {
+      "groupId": "laurens_parents",
+      "members": [
+        { "name": "Donna Mulvihill", "aliases": ["mom", "mother", "donna"] },
+        { "name": "Tom Mulvihill", "aliases": ["tom", "father", "dad"] },
+        { "name": "Tara Mulvihill", "aliases": ["tara"] }
+      ]
+    },
+    {
+      "groupId": "laurens_brother",
+      "members": [
+        { "name": "Brendan Mulvihill", "aliases": ["brendan"] },
+        { "name": "Elena Salinas", "aliases": ["elena"] },
+        { "name": "Mason Muse", "aliases": ["mason", "mason mulvihill"] }
+      ]
+    },
+    {
+      "groupId": "laurens_maternal_grandparents",
+      "members": [
+        { "name": "Pat Pagnetti", "aliases": ["grandma pat", "pat"] },
+        { "name": "Richard Pronti", "aliases": ["grandpa rich", "richard", "rich"] }
+      ]
+    },
+    {
+      "groupId": "meiers",
+      "members": [
+        { "name": "Carl Meier", "aliases": ["uncle carl", "carl"] },
+        { "name": "Teresa Meier", "aliases": ["aunt terri", "terri", "terri meier"] },
+        { "name": "Lily Meier", "aliases": ["lily"] }
+      ]
+    },
+    {
+      "groupId": "aunt_kathleen",
+      "members": [
+        { "name": "Kathleen Mulvihill", "aliases": ["aunt kathy", "aunt kathleen", "kathy"] }
+      ]
+    },
+    {
+      "groupId": "panarellos",
+      "members": [
+        { "name": "Kathy Pagnetti", "aliases": ["aunt kathy", "kathy", "kathy panarello"] },
+        { "name": "Dan Panarello", "aliases": ["uncle dan", "dan", "dan panarello", "danny"] },
+        { "name": "Tim Butler", "aliases": ["tim", "timmy"] }
+      ]
+    },
+    {
+      "groupId": "laurens_friends",
+      "members": [
+        { "name": "Erin Heaning", "aliases": ["erin"] },
+        { "name": "Lindsay Becker", "aliases": ["lindsay"] },
+        { "name": "Ashley Russell", "aliases": ["ashley"] },
+        { "name": "Lena Acosta", "aliases": ["lena"] },
+        { "name": "Kaitlyn King", "aliases": ["kaitlyn"] }
+      ]
+    }
+  ]
+}

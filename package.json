@@ -1,0 +1,13 @@
+{
+  "name": "engagement-party-evite",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Engagement party evite with RSVP system powered by Firebase",
+  "scripts": {
+    "seed": "node seed/seed.js",
+    "dev": "npx serve public"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  }
+}
