@@ -13,9 +13,9 @@ A single-page engagement party invitation with an RSVP system. Hosted on GitHub 
 
 ### 2. Configure
 
-1. Paste your Firebase config into `public/js/firebase-config.js`
-2. Update event details (names, date, time, venue) in `public/index.html`
-3. Add your couple photo to `public/images/` and update the `src` in `index.html`
+1. Paste your Firebase config into `js/firebase-config.js`
+2. Update event details (names, date, time, venue) in `index.html`
+3. Add your couple photo to `images/` and update the `src` in `index.html`
 
 ### 3. Install Dependencies
 
@@ -38,7 +38,7 @@ npm run seed
 
 1. Create a GitHub repo and push this project
 2. Go to Settings > Pages
-3. Set source to **GitHub Actions** or **Deploy from a branch** (select `main`, folder `/public`)
+3. Set source to **Deploy from a branch** (select `main`, folder `/ (root)`)
 4. Your site will be live at `https://yourusername.github.io/repo-name/`
 
 ### 6. Deploy Firestore Rules (optional)
