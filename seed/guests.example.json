@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "groupId": "example_family",
+      "members": [
+        { "name": "First Last", "aliases": ["nickname", "firstname"] },
+        { "name": "Spouse Last", "aliases": ["nickname"] }
+      ]
+    },
+    {
+      "groupId": "example_solo",
+      "members": [
+        { "name": "Friend Name", "aliases": ["friend"] }
+      ]
+    }
+  ]
+}

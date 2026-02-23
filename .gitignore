@@ -1,5 +1,5 @@
 node_modules/
 .firebase/
-seed/serviceAccountKey.json
+seed/
 .env
 *.log
